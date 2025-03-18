@@ -76,3 +76,16 @@ nav a:hover{
   font-weight: bold;
   margin-top: 10px;
 }
+
+footer{
+  text-aling: center;
+  bsckground: url ("bg.jpg");
+  padding: 40px 0;
+}
+
+.copyright{
+  color: white;
+  font-size: 22px;
+  margin: 20px auto;
+}
+
