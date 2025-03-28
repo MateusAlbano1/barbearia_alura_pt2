@@ -1,6 +1,6 @@
 head {
-  background:#bbbbbb
-  padding: 20px 0
+  background:#bbbbbb;
+  padding: 20px 0;
 }
 
 .caixa{
@@ -16,13 +16,13 @@ nav{
 }
 
 nav li {
-  display: inline
+  display: inline;
   margin: 0 0 0 15px;
 }
 
 nav a {
   text-transform: uppercase;
-  color:#000000
+  color:#000000;
   font-weigth: bold;
   font-size: 22px;
   text-decoration: none;
