@@ -27,7 +27,7 @@ nav li {
 nav a {
   text-transform: uppercase;
   color:#000000;
-  font-weigth: bold;
+  font-weight: bold;
   font-size: 22px;
   text-decoration: none;
 }
@@ -48,24 +48,24 @@ nav a:hover{
   text-align: center;
   width: 30%;
   vertical-align: top;
-  marging: 0 1.5%;
+  margin: 0 1.5%;
   box-sizing: border-box;
   border: 2px solid black;
   border-radius: 40px;
 }
 
-.produtos li: hover{
+.produtos li:hover{
   border-color: blue;
 }
 
-.produtos li: active{
+.produtos li:active{
   border-color: red;
 }
 
-.produtos li: hover h2{
+.produtos li:hover h2{
   font-size: 35px;
 }
-
+ 
 .produtos h2{
   font-size: 30px;
   font-weight: bold;
@@ -82,8 +82,8 @@ nav a:hover{
 }
 
 footer{
-  text-aling: center;
-  bsckground: url ("bg.jpg");
+  text-align: center;
+  background: url ("bg.jpg");
   padding: 40px 0;
 }
 
