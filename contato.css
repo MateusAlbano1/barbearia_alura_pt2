@@ -1,6 +1,6 @@
 @import url(Produtos.css);
 
-body{
+body {
 	font-family: 'Roboto', sans-serif;
 }
 
@@ -9,28 +9,28 @@ main {
   margin: 0 auto;
 }
 
-form{
+form {
   margin: 40px 0;
 }
 
-form label form p {
-  display:block;
+form label p {
+  display: block;
   font-size: 20px;
   margin: 0 0 10px;
 }
 
 .input-padrao {
-  display:block;
+  display: block;
   margin: 0 0 20px;
   padding: 10px 25px;
   width: 50%;
 }
 
-.checkbox{
+.checkbox {
   margin: 20px 0;
 }
 
-.enviar{
+.enviar {
   width: 40%;
   padding: 15px 0;
   background: blueviolet;
@@ -43,22 +43,22 @@ form label form p {
   cursor: pointer;
 }
 
-.enviar :hover {
+.enviar:hover {
   background: darkgrey;
   transform: scale(1.2);
 }
 
-table{
+table {
   margin: 20px 0 40px;
 }
 
-thead{
+thead {
   background: #555555;
   color: White;
   font-weight: bold;
 }
 
-td, th{
+td, th {
   border: 1px solid black;
   padding: 8px 15px;
 }
